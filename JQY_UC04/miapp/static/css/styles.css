@@ -16,7 +16,7 @@
 }
 
 body{
-    background-color: #f2e0b9;
+    background-color: #8bb3cd;
 }
 
 header{
@@ -113,7 +113,7 @@ nav ul li a:hover{
 }
 
 .box{
-    background: white;
+    background: rgb(233, 219, 180);
     width: 95%;
     min-height: 930px;
     padding: 20px;
